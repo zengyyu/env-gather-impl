@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<woss>
+	<server>
+		<port>8099</port>
+	</server>
+	<client>
+		<serverIp>127.0.0.1</serverIp>
+		<serverPort>8099</serverPort>
+	</client>
+</woss>
